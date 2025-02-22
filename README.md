@@ -17,6 +17,8 @@ Here are some of the projects I've worked on:
 - [View Project](#)
 
 #### 🎥 Project Demo:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MlvS4nDbrgs" frameborder="0" allowfullscreen></iframe>
+
 [![Watch the video](https://img.youtube.com/vi/MlvS4nDbrgs/0.jpg)](https://www.youtube.com/watch?v=MlvS4nDbrgs)
 
 ### 2. **Bitcoin Time Series Analysis**
@@ -46,4 +48,3 @@ Here are some of the projects I've worked on:
 - **Email:** [your.email@example.com](#)
 
 🚀 *Always exploring new technologies and challenges in robotics and automation!*
-
