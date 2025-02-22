@@ -1,5 +1,3 @@
-# ShubhrajitS.github.io
-
 # Shubhrajit Sinha's Portfolio
 
 Welcome to my portfolio! I am a Robotics and Automation Engineer passionate about Machine Learning, Factory Simulation, and Industrial Automation.
@@ -16,7 +14,10 @@ Here are some of the projects I've worked on:
 ### 1. **Snake AI using PyTorch**
 - Implemented an AI agent to play the Snake game using Deep Q-Learning.
 - Used PyTorch to train the model with reinforcement learning techniques.
-- [View Project](#)  
+- [View Project](#)
+
+#### 🎥 Project Demo:
+[![Watch the video](https://img.youtube.com/vi/MlvS4nDbrgs/0.jpg)](https://www.youtube.com/watch?v=MlvS4nDbrgs)
 
 ### 2. **Bitcoin Time Series Analysis**
 - Analyzed historical Bitcoin data using machine learning techniques.
@@ -45,3 +46,4 @@ Here are some of the projects I've worked on:
 - **Email:** [your.email@example.com](#)
 
 🚀 *Always exploring new technologies and challenges in robotics and automation!*
+
